@@ -443,6 +443,7 @@
   * [Present Value](financial/present_value.py)
   * [Price Plus Tax](financial/price_plus_tax.py)
   * [Simple Moving Average](financial/simple_moving_average.py)
+  * [Straight Line Depreciation](financial/straight_line_depreciation.py)
   * [Time And Half Pay](financial/time_and_half_pay.py)
 
 ## Fractals
@@ -1232,6 +1233,8 @@
   * [Non Preemptive Shortest Job First](scheduling/non_preemptive_shortest_job_first.py)
   * [Round Robin](scheduling/round_robin.py)
   * [Shortest Job First](scheduling/shortest_job_first.py)
+
+## [Search Engine](/search_engine.py)
 
 ## Searches
   * [Binary Search](searches/binary_search.py)
